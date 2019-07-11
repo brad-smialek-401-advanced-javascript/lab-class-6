@@ -14,4 +14,4 @@
 * [api docs](./docs/swagger.json) (API servers)
 
 #### UML
-![UML](uml.jpeg)
+![UML](./uml.jpeg)
