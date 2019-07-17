@@ -1,0 +1,26 @@
+{
+  "name": "api-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "superagent": "^4.0.0-beta.5"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brad-smialek-401-advanced-javascript/lab-class-6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brad-smialek-401-advanced-javascript/lab-class-6/issues"
+  },
+  "homepage": "https://github.com/brad-smialek-401-advanced-javascript/lab-class-6#readme"
+}

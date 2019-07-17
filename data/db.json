@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "super nice",
+      "display_name": "a thing",
+      "name": "philbert"
+    },
+    {
+      "id": 3,
+      "description": "blue",
+      "display_name": "doggy",
+      "name": "brad"
+    },
+    {
+      "id": 4,
+      "name": "hat",
+      "display_name": "top",
+      "description": "green"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "description": "red",
+      "display_name": "a thing",
+      "name": "brad"
+    },
+    {
+      "id": 1,
+      "description": "blue",
+      "display_name": "something",
+      "name": "jessica"
+    },
+    {
+      "id": 3,
+      "description": "orange and blue",
+      "display_name": "something yes",
+      "name": "zachary"
+    }
+  ]
+}
